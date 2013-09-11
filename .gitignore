@@ -1,0 +1,16 @@
+out/
+gen/
+bin/
+*.iws
+.idea/misc.xml
+.idea/dictionaries
+.idea/scopes/
+.idea/codeStyleSettings.xml
+workspace.xml
+tasks.xml
+local.properties
+*.java.orig
+*.pyc
+*.swp
+*.apk
+*.log
